@@ -80,7 +80,7 @@ tbody tr:nth-child(odd) {
 tbody tr:hover {
     cursor: pointer;
     background-color: rgb(243, 245, 147);
-    transition: 1s ease-in-out;
+    transition: background-color 1s ease-in-out;
 }
 
 .logo {
